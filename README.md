@@ -2,4 +2,4 @@
 
 ~~Does the same thing as the [original](https://github.com/danrahn/Plexamp-Download-Copier) but without using python~~
 
-Doesn't reoganise the media
+Doesn't reorganize the media
