@@ -1,4 +1,4 @@
-[# Plexamp Download Copier - Without Python
+[# Plexamp Download Copier - Without Python #]
 
 This script copies downloaded music from Plexamp to a location of your choice.
 
