@@ -1,4 +1,4 @@
-# Plexamp Download Copier
+[# Plexamp Download Copier - Without Python
 
 This script copies downloaded music from Plexamp to a location of your choice.
 
@@ -33,3 +33,4 @@ python plexampDownloadCopier.py [-d dir]
 ## Notes
 
 This script was tested on Windows and Ubuntu, but should work on other platforms. Regardless, the worst that should happen is the script not automatically finding the PlexAmp download directory, in which case it will interactively ask the user to supply that location.
+](https://github.com/danrahn/Plexamp-Download-Copier)
